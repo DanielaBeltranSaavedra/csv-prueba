@@ -1,0 +1,63 @@
+﻿Employee Details,,,,,,,Testing Basics,,,,,,,,Management Life Cycle Tools,,,,,Record and Playback tools,,,,Programming Languages,,,,,,,Test Runners,,Automation Concepts,,,,Automation Tools,,,,,,,,,,Mobile Testing,,,,,,,Performance Testing,,,,,,,Database Tools,,,,
+#,DU,Grade,Core Skill,Secondary Skill,Name Surname,Main Community,Fundamentals,Estimation,Planning,Test Analysis & Design,Execution & Defect Management,Deliverables,Reporting ,Metrics ,Jira(ZePhyr),ALM,Xray,Testlink,Mantis,Katalon,Ghost Inspector,Selenium WebDriver,Cypress ,HTML & JavascriAt,Java,.Net,C#,Ruby,Python,Scala,TestNG,JUnit,BDD,TDD,Continuous Integration ,Automation Testing Basic Concepts,GIT,Maven,Gradle,Jbehave,Cucumber,RSpec,Serenity,Rest-Assured,Selenium,Jenkins,Appium,Appium Studio,Android Studio,Espresso,Calabash,AWS Device Farm,SauceLabs,Performance Testing Basic Concepts,Jmeter,LoadRunner,OctoPerf,BlazeMeter,Gatling,Locust,Oracle ,MongoDB,MySQL,Postgres,SQL Server
+1,BOD,EN,Manual,,Angela Zuluaga,Test Analysis,2,2,2,2,2,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2,BOD,TL,Manual,Record and Playback tools,Alejandra Sanchez,Test Analysis ,2,2,2,3,3,1,2,2,1,0,0,0,0,3,3,0,0,1,2,0,0,0,0,0,0,0,1,1,1,1,2,2,0,1,2,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,BOD,EN,Manual,,Andrea Castillo,Manual Testing,2,2,2,2,2,2,2,2,2,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,BOD,TL,Automation,,Camila Vanegas,Test Automation,2,2,1,2,2,2,2,1,2,0,0,0,0,1,0,3,0,2,3,0,0,0,3,0,2,2,2,1,2,3,2,1,0,0,3,0,2,2,3,0,3,0,1,0,0,0,1,2,2,0,0,0,0,0,1,0,2,2,0
+5,BOD,ST,Manual,,Camilo Vidal ,Test Manual,3,1,3,3,3,2,3,2,3,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+6,BOD,TL,Automation,,Carla Marquez,Test Automation,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+7,BOD,EN,Manual,Automation,Cesar Clavijo,Test Analysis ,3,3,3,3,3,3,3,3,3,3,2,2,2,1,0,3,0,1,1,0,0,0,3,0,0,0,2,2,0,2,0,0,0,0,0,0,0,0,3,2,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,2,2,2
+8,BOD,ST,Manual,,Cesar Valero,Test Automation,3,3,3,3,3,3,3,2,3,3,0,0,1,2,0,2,0,2,2,1,1,1,0,0,1,2,2,1,1,1,1,1,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,1
+9,BOD,ST,Automation,,Cristhian Murcia,Test Automation,4,3,2,3,3,3,3,3,3,3,0,3,3,0,0,0,0,2,3,0,2,0,2,0,3,3,3,1,2,3,3,3,0,1,3,0,3,3,3,2,1,0,0,0,0,0,0,1,1,0,0,0,0,0,2,0,2,2,2
+10,BOD,SE,Automation,,Cristian Arandia,Test Automation,4,4,4,4,4,3,4,3,4,1,2,0,0,4,1,3,0,4,4,0,0,0,0,0,4,4,4,3,3,4,4,3,2,1,4,0,2,3,3,3,3,3,3,0,0,3,0,2,2,0,0,0,0,0,3,1,3,4,3
+11,BOD,ST,Automation,Performance ,Daniel Rodriguez,Test Automation,2,2,2,2,2,2,2,2,1,0,0,0,0,3,0,1,0,2,2,0,1,1,3,0,1,1,2,1,2,2,3,2,1,1,2,0,1,2,2,2,1,1,1,0,2,0,0,2,2,0,0,0,0,0,0,2,2,2,1
+12,BOD,CL,Manual,,David Ureña,Test Manual,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,BOD,JT,Automation,,Dayana Figueredo,Test Automation,3,2,2,2,2,2,2,2,2,0,0,0,0,1,0,2,0,1,2,0,2,0,1,0,1,1,2,0,1,2,2,2,1,0,3,0,1,2,2,1,2,0,1,0,0,0,2,2,1,0,0,0,0,0,0,1,1,0,0
+14,BOD,EN,Manual,,Diego Forero,Test Analysis,3,2,2,3,3,2,2,1,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0
+15,BOD,EN,Automation,,Eduardo Bohorquez,Test Automation,3,3,3,3,3,3,3,3,3,2,0,3,0,1,0,3,0,2,2,1,1,0,1,1,3,2,2,1,2,3,3,2,1,0,2,0,2,2,3,2,2,2,2,0,0,1,1,1,1,0,0,0,0,0,2,1,2,2,2
+16,BOD,TL,Automation,,Fabio Bombiela,Test Automation,4,2,2,3,4,3,3,2,3,0,0,0,0,0,0,0,0,2,4,2,3,0,1,0,4,3,3,1,2,3,3,3,1,0,4,0,2,4,3,2,3,2,2,0,0,0,1,2,1,0,0,0,0,0,0,0,1,0,0
+17,BOD,ST,Automation,,Fredis Escobar,Test Automation,2,2,2,2,3,1,2,2,2,2,0,0,3,0,0,2,0,2,2,1,1,0,0,0,1,0,1,1,1,1,1,2,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,0,2,1,2
+18,BOD,CL,Manual,Management,Freddy Jimenez,Test Management,4,3,4,3,3,4,3,3,3,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,0,2,0,0
+19,BOD,EN,Manual,,Gina Acosta,Test Analysis,3,3,3,4,4,3,3,3,3,3,2,2,3,1,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,1,1,0,0,0,0,0,2,0,2,2,2
+20,CAD,EN,Manual,,Javier González,Performance Testing ,2,2,1,3,3,2,2,2,1,3,3,2,1,0,0,0,0,0,1,0,0,0,0,0,1,1,3,0,2,0,0,1,1,0,1,0,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,2,2
+21,BOD,ST,Manual,,Jefferson Barbosa,Test Analysis,2,2,1,2,2,1,2,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+22,BOD,CL,Automation,Performance ,Johnny Cerpa,Performance Testing ,4,3,3,3,3,3,3,4,2,1,0,2,2,0,0,0,0,2,3,1,3,0,1,1,1,3,3,1,4,4,3,3,2,2,3,0,2,3,3,2,1,1,0,0,0,0,0,4,4,3,4,3,3,1,2,1,2,1,0
+23,CAD,ST,Automation,,Jose Andrade,Test Automation,2,1,1,1,2,1,2,2,1,0,1,1,0,0,0,0,0,2,3,0,2,1,1,0,2,2,2,0,2,0,3,2,2,0,2,0,0,2,2,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,2,2,2,1,1
+24,BOD,CL,Manual,,Juan Andrade ,Agile ,3,3,3,3,3,3,3,3,2,2,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2,0,0,2,0,0,0,0,2,0,0
+25,BOD,EN,Automation,Performance ,Juan Duque,Test Automation,4,3,3,3,2,2,3,3,2,0,0,0,0,1,0,2,1,4,4,3,3,0,3,1,4,4,4,4,4,4,4,4,2,2,4,0,4,4,3,4,2,2,2,1,2,1,3,4,3,2,1,3,1,0,4,1,4,4,4
+26,BOD,TL,Automation,,Juan Sierra,Test Automation,2,2,2,2,2,1,2,2,1,2,0,0,0,1,0,1,0,1,2,0,0,0,1,0,1,1,1,1,1,2,1,2,0,0,2,0,1,1,2,1,2,1,1,0,0,0,1,2,1,0,0,0,0,0,2,0,2,0,2
+27,BOD,ST,Manual,,Juan Vasquez,Test Manual,2,2,2,2,3,2,3,2,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,3
+28,BOD,EN,Automation,,Julio Ynojosa,Test Automation,3,2,2,4,4,4,4,2,3,0,0,2,0,3,0,4,1,3,4,2,4,0,0,0,3,2,4,2,2,4,2,2,2,0,4,0,0,3,4,2,3,1,3,0,0,0,0,2,3,0,0,2,0,0,2,2,2,3,3
+29,CAD,ST,Manual,,Karen Sanchez,Test Analysis ,2,3,3,3,3,2,3,3,3,2,0,3,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,1,0,0,2,0,2,2,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0
+30,BOD,TL,Automation,Performance ,Kevin Mendez,Test Automation,3,3,2,4,4,2,3,3,2,0,0,0,0,2,0,4,0,3,4,0,1,3,4,0,2,2,3,2,2,3,4,2,1,2,3,0,3,3,4,1,2,2,1,0,0,0,2,3,3,0,0,2,0,1,3,1,3,2,2
+31,BOD,TL,Automation,,Kevin Ruiz,Test Automation,3,2,1,2,2,1,2,1,1,0,0,0,0,3,0,3,0,2,2,1,0,0,0,0,1,2,2,0,1,2,2,2,1,1,2,0,2,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+32,BOD,CL,Manual,Management,Leandro Restrepo,Manual Testing,4,3,3,4,4,4,4,4,2,3,0,0,0,0,0,1,0,1,0,2,2,0,0,0,0,1,2,1,2,2,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,1,0,3
+33,BOD,SE,Manual,Management,Lina Infante,Test Management,4,3,3,3,3,3,3,3,3,0,0,3,1,0,0,0,0,2,1,0,0,1,0,0,0,1,1,0,1,1,2,1,0,1,1,0,1,2,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,1
+34,BOD,SE,Manual,,Loren Melo,Test Analysis,4,2,3,3,3,3,3,3,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+35,BOD,ST,Manual,,Maria Losada,Test Analysis,2,2,2,3,2,2,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+36,BOD,CL,Automation,,Martin Borba,Test Automation,2,2,2,3,2,2,3,2,2,1,1,1,1,0,0,4,2,4,4,1,1,1,4,1,4,4,4,2,4,4,3,4,1,1,4,1,4,3,4,3,2,1,1,1,0,0,4,1,1,0,0,0,0,0,0,1,1,1,1
+37,BOD,ST,Automation,,Miguel Macias,Test Automation,4,1,1,4,2,1,3,1,4,0,0,1,2,4,0,4,3,4,3,2,0,0,0,0,2,3,4,2,4,4,3,3,1,1,4,0,2,4,4,3,2,0,1,0,0,0,0,2,0,0,0,0,0,0,2,0,3,0,3
+38,BOD,TL,Automation,,Miguel Mejia,Test Automation,2,1,1,2,2,1,2,1,1,0,0,0,0,2,2,1,0,2,3,1,2,0,2,0,1,2,2,1,1,2,2,1,0,0,2,0,2,2,2,1,1,0,1,0,0,0,1,1,2,0,0,0,0,0,0,1,2,0,1
+39,BOD,EN,Manual,,Paula Marcano,Test Management,3,3,3,3,3,3,3,3,3,3,0,2,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,1,1,0,1,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1
+40,BOD,TL,Automation,,Paula Vanegas,Test Automation,2,1,2,2,1,1,1,1,1,0,0,0,0,1,0,1,0,2,2,0,0,1,1,0,0,1,2,0,1,2,2,2,1,0,2,0,0,2,2,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,2,1,0
+41,BOD,ST,Automation,,Rafael Garzon,Test Automation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,BOD,ST,Automation,,Ruben Casas,Test Automation,3,2,2,2,2,2,3,2,1,1,0,0,1,0,0,2,0,2,2,2,2,1,1,0,2,2,3,1,2,3,3,2,1,1,2,0,2,2,3,2,3,2,2,1,1,1,3,1,1,0,0,0,0,0,2,1,2,0,2
+43,BOD,ST,Manual,,Samir Serna,Manual Testing,2,2,2,2,2,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1
+44,BOD,TL,Automation,,Santiago Cabrales,Test Automation,2,2,2,2,2,2,1,1,2,2,0,0,0,1,0,1,0,1,2,1,0,0,1,0,1,1,2,1,1,1,1,1,1,1,1,0,1,1,1,0,1,0,1,0,0,0,0,1,2,0,0,1,0,0,1,0,1,1,1
+45,BOD,ST,Automation,,Santiago Sanchez,Test Automation,3,3,3,3,2,3,3,4,0,3,0,2,1,1,0,3,0,2,3,2,3,0,0,0,1,1,3,3,2,4,2,1,1,0,2,0,2,1,2,1,2,1,1,0,0,1,2,1,1,1,0,0,0,0,1,0,2,0,2
+46,BOD,ST,Manual,,Santoshi Gajula,Test Manual ,3,2,2,3,2,2,2,2,1,2,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,2,0,2,0,0
+47,BOD,ST,Automation,,Juan Sebastian Leal,Test Automation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,BOD,TL,Automation,,Silvana Pareja,Test Automation,4,2,1,3,3,2,1,2,3,0,0,0,0,1,0,2,0,2,3,0,2,0,1,0,2,2,3,0,2,2,3,3,0,0,4,0,2,3,3,2,4,2,3,0,0,0,3,1,1,0,0,0,0,0,0,0,1,0,0
+49,BOD,SE,Manual,Management,Stefania Vargas,Test Analysis,4,3,3,4,4,4,3,2,4,3,1,1,0,1,0,3,0,2,1,0,1,2,0,0,1,1,3,3,3,3,2,0,0,0,3,0,0,1,2,4,0,0,3,0,0,0,3,2,0,0,0,0,0,0,2,0,2,0,2
+50,CAD,TL,Automation,,Tony Briceño,Test Automation,3,1,1,2,2,2,2,1,1,1,0,0,0,0,0,0,0,2,2,0,0,0,0,0,1,1,2,0,1,1,2,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,1,0
+51,CAD,ST,Manual,,Yonathan Cohelo,Test Automation,3,2,2,3,3,2,3,2,1,2,2,2,0,0,0,0,0,1,2,0,2,0,0,0,0,0,2,0,0,2,0,1,1,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,2,3
+52,BOD,ST,Manual,,Angelica Rodriguez,Test Analysis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,BOD,ST,Manual,,Carlos Ariza,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54,BOD,ST,Automation,,Vinisha Vijayakumar,Test Analysis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,BOD,ST,Automation,,Wilson Ortiz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,BOD,JT,Automation,,Maria Mena,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,BOD,ST,Manual,,Luis Vasquez,Test Analysis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,BOD,SE,Automation,,Jose Rodriguez,Performance Testing ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

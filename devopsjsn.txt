@@ -1,0 +1,610 @@
+﻿{
+    "Sheet1": [
+        {
+            "LEGEND": "Can teach it",
+            "undefined": "Same as Done it but I can also provide a PassItOn and answer in high details. keep in mind you don't need to be an expert on it"
+        },
+        {
+            "LEGEND": "Done it",
+            "undefined": "You worked on it, and feel you can provide details about it"
+        },
+        {
+            "LEGEND": "Worked around it",
+            "undefined": "You worked with this but you don't feel confident to explain in highly details about it"
+        },
+        {
+            "LEGEND": "Aware of it",
+            "undefined": "You know about it and know the purpose, but Never work with it"
+        },
+        {
+            "LEGEND": "None",
+            "undefined": "You really don't know nothing about it"
+        },
+        {
+            "undefined": "People"
+        },
+        {
+            "undefined": "Juan Mendoza",
+            "LEGEND": "Cloud Domain"
+        },
+        {
+            "undefined": "ST"
+        },
+        {
+            "undefined": "Public Cloud",
+            "LEGEND": "Cloud Domain"
+        },
+        {
+            "undefined": "2",
+            "LEGEND": "OS"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "OS"
+        },
+        {
+            "undefined": "2",
+            "LEGEND": "OS"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "Scripting"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "Scripting"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Scripting"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Scripting"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Scripting"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Scripting"
+        },
+        {
+            "undefined": "4",
+            "LEGEND": "Scripting"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Virtualization"
+        },
+        {
+            "undefined": "2",
+            "LEGEND": "Virtualization"
+        },
+        {
+            "undefined": "2",
+            "LEGEND": "Virtualization"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Virtualization"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Virtualization"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Virtualization"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "Virtualization"
+        },
+        {
+            "undefined": "2",
+            "LEGEND": "Virtualization"
+        },
+        {
+            "undefined": "4",
+            "LEGEND": "Infrastructure as Code"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Infrastructure as Code"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Configuration Management"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Configuration Management"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Configuration Management"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Configuration Management"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Configuration Management"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Application Servers"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Application Servers"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Application Servers"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "Application Servers"
+        },
+        {
+            "undefined": "2",
+            "LEGEND": "Application Servers"
+        },
+        {
+            "undefined": "2",
+            "LEGEND": "Application Servers"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "SQL Databases"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "SQL Databases"
+        },
+        {
+            "undefined": "2",
+            "LEGEND": "SQL Databases"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "SQL Databases"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "NoSQL Databases"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "NoSQL Databases"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "NoSQL Databases"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "NoSQL Databases"
+        },
+        {
+            "undefined": "4",
+            "LEGEND": "CI/CD Tools"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "CI/CD Tools"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "CI/CD Tools"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "CI/CD Tools"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "CI/CD Tools"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "CI/CD Tools"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "CI/CD Tools"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "CI/CD Tools"
+        },
+        {
+            "undefined": "4",
+            "LEGEND": "CI/CD Tools"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Logging"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "Logging"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "Logging"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Logging"
+        },
+        {
+            "undefined": "2",
+            "LEGEND": "Containers Orchestration"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Containers Orchestration"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Containers Orchestration"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Containers Orchestration"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Containers Orchestration"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Containers Orchestration"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Monitoring"
+        },
+        {
+            "undefined": "4",
+            "LEGEND": "Monitoring"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "Monitoring"
+        },
+        {
+            "undefined": "4",
+            "LEGEND": "Monitoring"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Monitoring"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Monitoring"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Monitoring"
+        },
+        {
+            "undefined": "4",
+            "LEGEND": "Monitoring"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Monitoring"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "Monitoring"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Monitoring"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "Networking"
+        },
+        {
+            "undefined": "2",
+            "LEGEND": "Networking"
+        },
+        {
+            "undefined": "2",
+            "LEGEND": "Networking"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "Security"
+        },
+        {
+            "undefined": "2",
+            "LEGEND": "Security"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "Security"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Security"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Security"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Security"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Security"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Security"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Security"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Security"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Security"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Security"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Security"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Load Balancers"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Load Balancers"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Load Balancers"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Load Balancers"
+        },
+        {
+            "undefined": "4",
+            "LEGEND": "Load Balancers"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Load Balancers"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Load Balancers"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Business Continuity"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Business Continuity"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Business Continuity"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Business Continuity"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Business Continuity"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Business Continuity"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Business Continuity"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Business Continuity"
+        },
+        {
+            "undefined": "4",
+            "LEGEND": "Cloud Service Models"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "Cloud Service Models"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "Cloud Service Models"
+        },
+        {
+            "undefined": "4",
+            "LEGEND": "IaaS"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "IaaS"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "IaaS"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "IaaS"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "IaaS"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "IaaS"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "IaaS"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "IaaS"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "IaaS"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "PaaS"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "PaaS"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "PaaS"
+        },
+        {
+            "undefined": "4",
+            "LEGEND": "PaaS"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "PaaS"
+        },
+        {
+            "undefined": "2",
+            "LEGEND": "SaaS"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "SaaS"
+        },
+        {
+            "undefined": "3",
+            "LEGEND": "SaaS"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "SDN"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "SDN"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "SDN"
+        },
+        {
+            "undefined": "4",
+            "LEGEND": "CDN"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "CDN"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "CDN"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "CDN"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Storage"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Storage"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Storage"
+        },
+        {
+            "undefined": "4",
+            "LEGEND": "Storage"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Storage"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Storage"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Artifact Repositories"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Artifact Repositories"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Artifact Repositories"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Service Discovery"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Service Discovery"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Service Discovery"
+        },
+        {
+            "undefined": "1",
+            "LEGEND": "Packaging"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Packaging"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Packaging"
+        },
+        {
+            "undefined": "0",
+            "LEGEND": "Packaging"
+        }
+    ]
+}

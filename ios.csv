@@ -1,0 +1,77 @@
+skill
+Data Types
+Scope
+Basic Operators
+Optionals
+Collections (Arrays/Dictionaries/Sets)
+Control Flow
+Properties (Mutability/Immutability)
+Accessor Modifiers
+Classes (Reference type)
+Extensions
+Enums (Value type)
+Closures
+Delegation Pattern
+Observers (Notification Center/KVO)
+Target-Action
+Application Life Cycle
+View Life Cycle
+Structures (Value type)
+Interoperability
+Memory Management
+Protocol Oriented Programming
+Custom Operators
+High Order Vs Lambdas
+Generics
+"Controls (Labels, buttons, textfields, pickers etc)"
+UIViewController Vs UIViews
+UINavigationController - UITabBar
+Presentation Styles - Storyboards and Segues
+UIStackView
+"Toolbars, TabBars, Status Bar"
+Image Views
+Custom Input Views
+Device Orientation
+"Collections: UITableview, UICollectionView"
+Custom Collections Content
+Navigation and Search Bars
+Size Classes
+Auto-layout
+Constraints
+Split Views
+Event Handlers (Gesture Recognizers)
+Layers
+Web Views
+Programatic UI
+"Scroll Views, Alerts, Action Sheets"
+App Transport Security
+URL Session
+JSON Parsing
+Codable
+User Defaults
+Basic File Persistence
+CoreData/CoreStorage
+Keychain
+Local Notifications
+Core Animation
+StoreKit
+CoreAudio
+CoreGraphics
+CoreImage
+EventKit
+MessageUI
+CoreMotion
+CloudKit & iCloud
+Quartz Core
+SpriteKit
+GameKit
+WatchKit
+Metal/MetalKit
+ARKit
+CoreML
+Push Notifications
+Core Location/MapKit
+Swift UI
+CocoaPods
+Swift Package Manager
+Carthage

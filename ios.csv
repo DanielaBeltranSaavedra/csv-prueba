@@ -1,64 +1,99 @@
 skill
-What is Node.js
-What Chrome V8 JS Engine
-How to use Callbacks
-How Non-blocking I/O work in NodeJS
-What is Event loop in NodeJS
-Developing NodeJS Modules
-Filesystem Access
-Synchronous Requests Over HTTP
-Common tools for Package management for NodeJS
-Using promises
-Using Async/Await
-Yargs
-Multer
-body-parser
-Bcrypt
-express-session
-NodeJS Basics - socket.io
-Winston
-JavaScripts Objects
-JavaScript Prototype
-ES6 Lambda Function
-Variable Scope and Hoisting
-Reserved Word This
-Arrow Functions
-Destructuring Data Structures
-Basic types: (Never, Any, Void, Null, Undefined)
-Basic types - using any
-Classes, Interfaces, Enum
-Decorators, Mixins
-Immutability Strategies
-Express
-Loopback
-Nestjs
-Kraken
-Koa
-Frameworks - socket.io
-MEAN.io
-Restify.JS
-Meteor.JS
-Pug
-Haml.js
-Hbs
-Sequelize
-Mongoose
-Typeorm
-Knex
-Npm
-Gulp
-Grunt
-Nodemon
-PM2
-Bower
-TypeMocha
-Mocha
-Streams
-Events
-Cluster
-Processes
-C/C++ Addons
-WASI
-N-API
-Async Hooks
-HTTP 2
+Basic Concepts
+In Deep Concepts
+Basic Class Design (OOP)
+String Concepts
+Exception Handling
+Collections
+Util
+Annotations
+Java Expressions
+Reflections
+Advanced Class Design (OOP and DP)
+Generics
+Java I/O, NIO, NIO.2
+Functional
+Lambdas Expression
+Java Net
+Concurrency and Multithreading
+GC
+JMX
+JVM
+Java 9
+Java 10
+Java 11
+Java 12
+Document Parsing and Transforming
+JDBC
+JEE - JMS
+JEE - JSP
+JEE - JSF
+JEE - Servlets
+Logging
+Java Time
+Internationalization
+App Servers
+Asynchronous Systems
+Document Templating
+JEE - Batch
+JEE - EJB
+JEE - JPA
+WebServices - REST/SOAP
+JVM Languages
+JEE - JTA
+Testing - Unit Testing
+Testing - Mocking Frameworks
+Build Tools - Maven
+Build Tools - Gradle
+Build Tools - Ant
+Testing - Integration Tests
+Testing - Automated Tests
+Testing - Load and Performance Tests
+Quality Assurance and Security
+Testing - TDD
+Java Rx
+Frameworks - Spring Core
+Frameworks - Spring Boot
+Frameworks - Spring Security
+Frameworks - Spring Data
+Frameworks - Spring Batch
+Frameworks - Spring MVC and WebFlow
+Frameworks - Spring Cloud
+Frameworks - Spring Integration
+Frameworks - Spring ROO
+Frameworks - Thymeleaf
+Frameworks - Selenium
+Frameworks - SAX
+Frameworks - SonarQube
+Frameworks - SLF4J
+Frameworks - Hibernate
+Persistence API - EclipseLink
+Persistence API - TopLink
+Persistence API - iBatis
+Frameworks - Struts
+Frameworks - JSF
+Frameworks - GWT
+Frameworks - Jasper Reports
+Frameworks - Quartz
+Frameworks - PrimeFaces
+Frameworks - ORMLite
+Frameworks - OrientDB
+Frameworks - Mockito
+Frameworks - JUnit
+Frameworks - JSoup
+Frameworks - JHipster
+Frameworks - Jackson
+Frameworks - HSQLDB
+Frameworks - Google Guice
+Frameworks - Google Guava
+Frameworks - Google Gson
+Frameworks - Apache Xerces
+Frameworks - Apache Velocity
+Frameworks - Apache Solr
+Frameworks - Apache POI
+Frameworks - Apache Lucene
+Frameworks - Apache Log4j
+Frameworks - Apache Kafka
+Frameworks - Apache HBase
+Frameworks - Apache Commons
+Frameworks - Apache Axis

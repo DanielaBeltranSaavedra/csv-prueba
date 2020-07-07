@@ -1,99 +1,45 @@
 skill
-Basic Concepts
-In Deep Concepts
-Basic Class Design (OOP)
-String Concepts
-Exception Handling
-Collections
-Util
-Annotations
-Java Expressions
-Reflections
-Advanced Class Design (OOP and DP)
-Generics
-Java I/O, NIO, NIO.2
-Functional
-Lambdas Expression
-Java Net
-Concurrency and Multithreading
-GC
-JMX
-JVM
-Java 9
-Java 10
-Java 11
-Java 12
-Document Parsing and Transforming
-JDBC
-JEE - JMS
-JEE - JSP
-JEE - JSF
-JEE - Servlets
-Logging
-Java Time
-Internationalization
-App Servers
-Asynchronous Systems
-Document Templating
-JEE - Batch
-JEE - EJB
-JEE - JPA
-WebServices - REST/SOAP
-JVM Languages
-JEE - JTA
-Testing - Unit Testing
-Testing - Mocking Frameworks
-Build Tools - Maven
-Build Tools - Gradle
-Build Tools - Ant
-Testing - Integration Tests
-Testing - Automated Tests
-Testing - Load and Performance Tests
-Quality Assurance and Security
-Testing - TDD
-Java Rx
-Frameworks - Spring Core
-Frameworks - Spring Boot
-Frameworks - Spring Security
-Frameworks - Spring Data
-Frameworks - Spring Batch
-Frameworks - Spring MVC and WebFlow
-Frameworks - Spring Cloud
-Frameworks - Spring Integration
-Frameworks - Spring ROO
-Frameworks - Thymeleaf
-Frameworks - Selenium
-Frameworks - SAX
-Frameworks - SonarQube
-Frameworks - SLF4J
-Frameworks - Hibernate
-Persistence API - EclipseLink
-Persistence API - TopLink
-Persistence API - iBatis
-Frameworks - Struts
-Frameworks - JSF
-Frameworks - GWT
-Frameworks - Jasper Reports
-Frameworks - Quartz
-Frameworks - PrimeFaces
-Frameworks - ORMLite
-Frameworks - OrientDB
-Frameworks - Mockito
-Frameworks - JUnit
-Frameworks - JSoup
-Frameworks - JHipster
-Frameworks - Jackson
-Frameworks - HSQLDB
-Frameworks - Google Guice
-Frameworks - Google Guava
-Frameworks - Google Gson
-Frameworks - Apache Xerces
-Frameworks - Apache Velocity
-Frameworks - Apache Solr
-Frameworks - Apache POI
-Frameworks - Apache Lucene
-Frameworks - Apache Log4j
-Frameworks - Apache Kafka
-Frameworks - Apache HBase
-Frameworks - Apache Commons
-Frameworks - Apache Axis
+DataStructures
+Literals, Operators
+Packaging
+Functions and Modules
+Control Structures
+File Management
+Exceptions
+Closures
+Async-Await
+Instrospection
+Virtual Environment
+Metaprogramming 
+List Comprehension
+Iterators and Generators
+High Order Functions
+Pure Functions
+Immutability
+FuncTools
+IterTools
+Rest
+WSGI
+ASGI
+Frameworks
+SQL
+NoSQL
+Serialization
+Object Oriented Programming
+Inheratence and Polymorphism
+Attribute Encapsulation
+Shallow and Deep Operations
+Abstract Classes 
+Composition
+Subclassing Build-ins
+Unit Testing
+Integration Testing
+PEP-20
+PEP-8
+PEP-257
+Design Patterns
+Multiprocessing
+Threading
+Socket
+Profiling
+Memory Management
